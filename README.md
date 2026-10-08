@@ -55,7 +55,7 @@ The twelve sections follow the order of the lecture notes. Every value is recomp
 - **Units:** Charges are in nC, distances in cm, and all results are in SI units, using $k = 8.9875\times10^9\ \text{N·m}^2/\text{C}^2$ and $\varepsilon_0 = 8.854\times10^{-12}\ \text{C}^2/(\text{N·m}^2)$.
 - **2D pictures, 3D physics:** The drawings are 2D cross-sections. The fields and fluxes are computed for real 3D point charges.
 - **Sphere in a field:** The conductor in section 4 uses the exact solution for a conducting sphere in a uniform field.
-- **Light and dark:** The pages follow the system's light or dark setting.
+- **Light and dark:** The pages follow the system's light or dark setting, and a sun/moon button in the top-right corner switches by hand, and the choice is remembered across pages.
 - **Reduced motion:** Under `prefers-reduced-motion`, the decorative header animation stays still.
 
 ## Credits
