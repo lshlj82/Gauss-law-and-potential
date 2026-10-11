@@ -50,6 +50,11 @@ The twelve sections follow the order of the lecture notes. Every value is recomp
 11. **Energy of a system of charges:** You can drag three charges. Each pair is labeled with its energy $U_{ij}$, colored by sign, and the page shows the total energy, which is the work needed to assemble the charges.
 12. **Isolated conductors:** Two spheres are joined by a wire. They reach the same potential, so $q_1:q_2 = r_1:r_2$ and $\sigma_1:\sigma_2 = 1/r_1 : 1/r_2$. The page also graphs $V(r)$ and $E(r)$ for a charged conducting sphere, and the section ends with a summary of $\vec E$ (a vector field) and $V$ (a scalar field).
 
+## Related · 관련 자료
+
+- **Course page · 강의 페이지:** [Physics 2: Interactive Demos](https://lshlj82.github.io/physics2-GNU/) (this is demo 2 · 이 데모는 2번)
+- **Supplement · 보충 자료:** [Same potential, different fields: the charged ring and spherical shell](https://lshlj82.github.io/circular-and-spherical-charge-electric-potential-and-field/index.html) ([한국어](https://lshlj82.github.io/circular-and-spherical-charge-electric-potential-and-field/index_ko.html) · [note, PDF](https://lshlj82.github.io/circular-and-spherical-charge-electric-potential-and-field/charged_ring.pdf) · [trick quiz, EN & KO](https://lshlj82.github.io/circular-and-spherical-charge-electric-potential-and-field/trick_quiz.pdf) · [source](https://github.com/lshlj82/circular-and-spherical-charge-electric-potential-and-field)). It extends section 6 (shell theorems) and section 10 (continuous charge), and both sections of the pages link to it. 6절(껍질 이론)과 10절(연속 전하 분포)을 확장하는 내용이며, 두 절에서 링크합니다.
+
 ## Notes on the model
 
 - **Units:** Charges are in nC, distances in cm, and all results are in SI units, using $k = 8.9875\times10^9\ \text{N·m}^2/\text{C}^2$ and $\varepsilon_0 = 8.854\times10^{-12}\ \text{C}^2/(\text{N·m}^2)$.
